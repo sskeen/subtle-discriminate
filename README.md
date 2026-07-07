@@ -1,4 +1,4 @@
-## 💢 Linguistic markers of subtle discrimination among mental health professionals
+# 💢 Linguistic markers of subtle discrimination in mental healthcare access
 [Simone J. Skeen](https://simoneskeen.xyz/); Daniel A. Lau; [Patrick Button](https://www.patrickbutton.com/)
 
 ![A text that reads Good Morning <|PII|>, I am very sorry to hear you are feeling sad! (highlighted orange for "Reflect") We are living a difficult time right now and I would like to help you through this. Thanks for reaching out as I know that it is not easy to ask for help. (highlighted green for "Affirm") I do have appointments available. I offer a free [45] min phone consultation during which we can talk and see if we are a good fit to work together. (highlighted pink for "Fit") When would you like to set up the phone consult?](images/afrm_fitt_refl_ex.jpg)
